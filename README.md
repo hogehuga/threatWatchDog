@@ -7,7 +7,7 @@ We plan to revise it later to make it more production-ready.
 - Notification function when data updating.
 - ...
 
-## What do4es this software do?
+## What does this software do?
 
 This software provides the following information:
 - Notifies of sudden increases in EPSS Scores
