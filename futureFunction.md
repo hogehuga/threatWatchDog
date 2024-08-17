@@ -1,6 +1,6 @@
 # memo
 
-- ![mindmap image](./images/mindmap.)
+- ![mindmap image](./images/mindmap.png)
   - by VSCODE: Markmap
 - Japanese only
 
